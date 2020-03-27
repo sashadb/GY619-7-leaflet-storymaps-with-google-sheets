@@ -1,1 +1,1 @@
-var googleDocURL = 'https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/';
+var googleDocURL = '7 GY619 Storymaps with Google Sheets Template 2019';
